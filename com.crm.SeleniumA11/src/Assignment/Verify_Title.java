@@ -13,7 +13,7 @@ public class Verify_Title {
 		if(expected.equals(actual)) {
 			System.out.println("You are in amazon page");
 		}else {
-			System.out.println("Input mismatch test");
+			System.out.println("Input mismatch");
 		}
 		
 		driver.close();
