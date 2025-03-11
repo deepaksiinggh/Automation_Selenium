@@ -14,7 +14,7 @@ public class RegistrationPage {
 		// maximize the browser
 		driver.manage().window().maximize();
 		Thread.sleep(2000);
-		//go on demowebshop website
+		//go on demowebshop website hehe
 		driver.get("https://demowebshop.tricentis.com/");
 		// get actualtitle
 		String actualUrl=driver.getCurrentUrl();
