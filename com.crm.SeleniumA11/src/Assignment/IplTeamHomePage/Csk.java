@@ -1,4 +1,4 @@
-package Assignment;
+package Assignment.IplTeamHomePage;
 
 import org.openqa.selenium.chrome.ChromeDriver;
 
