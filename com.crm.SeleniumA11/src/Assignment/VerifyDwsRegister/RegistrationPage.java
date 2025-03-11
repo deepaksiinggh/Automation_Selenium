@@ -16,7 +16,7 @@ public class RegistrationPage {
 		Thread.sleep(2000);
 		//go on demowebshop website
 		driver.get("https://demowebshop.tricentis.com/");
-		// get actual title
+		// get actualtitle
 		String actualUrl=driver.getCurrentUrl();
 		// validation between expected url and actual url
 		if(expectedUrl.equals(actualUrl)) {
