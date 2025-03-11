@@ -17,7 +17,7 @@ public class DwsLoginPAge {
 		driver.get("https://demowebshop.tricentis.com/");
 		// get actual title
 		String actualTitle = driver.getTitle();
-		//verification expectedtitle and actualtitle
+		//verification expected title and actual title
 		if(expectedTitle.equals(actualTitle)) {
 			System.out.println("This is a Dws website");
 			// find element by text and click login page
