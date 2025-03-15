@@ -1,0 +1,66 @@
+1. WRITE A SCRIPT FOR DWS WEBSITE:-
+
+-> OPEN THE BROWSER
+-> MAXIMIZE THE BROWSER
+-> ENTER DWS HOME PAGE
+-> VERYFY THE PAGE BY URL
+-> AFTER VERIFYING CLICK REGISTER LINK
+-> AFTER CLICKING THE REGISTER LINK EVERY DETAIL YOU FILL IN CLICK REGISTER BUTTON
+-> CLOSE THE BROWSER
+
+
+2. WRITE A SCRIPT FOR DWS WEBSITE:-
+
+-> OPEN THE BROWSER
+-> MAXIMIZE THE BROWSER
+-> ENTER DWS HOME PAGE
+-> VERIFY THE PAGE BY TITLE
+-> CLICK LOGIN LINK
+-> FILL ALL THE DETAILS OF LOGIN
+-> AFTER FILLING CLICK LOGIN BUTTON
+-> IT WILL GO TO HOMEPAGE 
+-> CHEACK LOGIN SUCESS OR NOT
+-> SHOULD NAVIGATE TO HOMEPAGE
+-> CLOSE THE BROWSER
+
+
+3. WRITE A SCRIPT FOR DWS WEBSITE:-
+
+-> Open the browser
+-> Maximize the browser
+-> Enter into the DWS webpage
+-> Navigate to Facebook
+-> Back to DWS page
+-> Refresh the page
+-> Go to Facebook page
+-> Close the browser
+
+
+4. WRITE A SCRIPT FOR A DWS WEBPAGE THAT INCLUDES LOGIN AND REGISTRATION FUNCTIONALITY, USING CSS SELECTORS
+
+
+5. WRITE A SCRIPT FOR DWS WEBSITE:-
+
+-> Open the browser
+-> Maximize the browser
+-> Enter into the DWS webpage
+-> Verify by using URL
+-> do login
+-> After verification add a 25$ gift card product to the shopping cart
+-> Fill in all the details of the gift cart and change the quantity to 2
+-> After changing click add to cart button
+-> Do logout
+-> Close the browser
+
+
+6. Everything same by doing an X-path (Login, register, GiftCard)
+
+
+7. WRITE A SCRIPT FOR DWS WEBSITE:-
+-> Open the browser
+-> Maximize the browser
+-> Enter into the DWS page
+-> Verify the page by URL
+-> Click the excellent radio button
+-> Click all the radio buttons that are present in the community poll
+-> While clicking retrieve all the text 
