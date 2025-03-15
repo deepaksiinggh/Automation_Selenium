@@ -9,7 +9,7 @@ public class AddGiftCard {
 		String expectedResult = "https://demowebshop.tricentis.com/";
 		ChromeDriver driver=new ChromeDriver();
 		driver.manage().window().maximize();
-		Thread.sleep(4000);
+		Thread.sleep(2000);
 		driver.get("https://demowebshop.tricentis.com/");
 		String actualresult = driver.getCurrentUrl();
 		if(expectedResult.equals(actualresult)) {
@@ -38,7 +38,7 @@ public class AddGiftCard {
 			System.out.println("You are not in dws page");
 		}
 			
-			Thread.sleep(4000);
+			Thread.sleep(2000);
 			driver.close();
 
 
