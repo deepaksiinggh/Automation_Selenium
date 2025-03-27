@@ -1,11 +1,13 @@
-package BaseClass;
+package Basic;
 import java.time.Duration;
+
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
+
+import src.OmayoBlog.WebDriver;
 
 public class DwsBase1 {
 	public static WebDriver driver=null;
