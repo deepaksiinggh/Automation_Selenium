@@ -1,8 +1,5 @@
 package NotificationPopUp;
-
-import java.awt.Desktop.Action;
 import java.time.Duration;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
@@ -21,7 +18,11 @@ public class Naukari {
 		driver.navigate().to("https://www.naukri.com/");
 		String actua_Url = driver.getCurrentUrl();
 		Actions act = new Actions(driver);
+		
+		
+		
 		// Validation by url
+		
 		
 		if(actua_Url.equals(expected_Url)) {
 			System.out.println("You are in Naukari page");
