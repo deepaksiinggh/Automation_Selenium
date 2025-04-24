@@ -36,7 +36,7 @@ public class Naukari {
 			Thread.sleep(1000);
 			
 			// send Email value
-			driver.findElement(By.id("email")).sendKeys("deepak@gmail.com");
+			driver.findElement(By.id("email")).sendKeys("deepak3767464765@gmail.com");
 			Thread.sleep(1000);
 			
 			// send password value
@@ -55,9 +55,10 @@ public class Naukari {
 			// resume upload
 			WebElement uploadResume= driver.findElement(By.xpath("//input[@type='file']"));
 			uploadResume.sendKeys("C:\\\\Users\\\\tdeep\\\\Documents\\\\Panni.docx");
-			Thread.sleep(1000);
+			Thread.sleep(2000);
 			
 			//Button click 
+			
 			driver.findElement(By.xpath("//button[@type='submit']")).click();
 			
 			

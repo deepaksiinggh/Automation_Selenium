@@ -41,12 +41,7 @@ public class Dws_Page {
             Set<String> child = driver.getWindowHandles();
             child.remove(parentWindow);
             System.out.println(child);
-            for(String str: child)
-            {
-            	driver.switchTo().window(str);
-            	String actual_urlString = 
-            }
-            
+           
             
          
     }

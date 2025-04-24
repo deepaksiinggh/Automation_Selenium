@@ -23,7 +23,7 @@ public class DwsLoginPAge {
 			// find element by text and click login page
 			driver.findElement(By.partialLinkText("Log")).click();
 			// find the element by name and set the value of email field
-			driver.findElement(By.name("Email")).sendKeys("tdeepak236@gmail.com");
+			driver.findElement(By.name("Email")).sendKeys("tdeepk236@gmail.com");
 			// find the element by name and set the value of password field
 			driver.findElement(By.name("Password")).sendKeys("Deepak@1234");
 			// find the element by name and click login button
