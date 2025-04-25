@@ -39,7 +39,7 @@ public class AddGiftCard {
 		}
 			
 			Thread.sleep(2000);
-			driver.close();
+//			driver.close();
 
 
 	}

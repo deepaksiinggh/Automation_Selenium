@@ -40,7 +40,7 @@ public class GiftCard {
 		}
 			
 			Thread.sleep(2000);
-			driver.close();
+		
 
 
 	}
